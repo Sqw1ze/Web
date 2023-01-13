@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+
+form {
+    margin: auto;
+    width: 500px;
+    height: 80px;
+    background-color: rgb(155, 19, 148);
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border-radius: 50%;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
